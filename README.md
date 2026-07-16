@@ -75,9 +75,7 @@ The analysis includes:
 ## Key Findings
 
 - User exploration was high, with `page_view` and `product_view` being the most common events.
-- 
 - Approximately 52.5% of users who added items to their cart completed a purchase.
-- 
 - Purchase events slightly exceeded checkout events, suggesting potential tracking inconsistencies or a fast checkout flow.
 
 
