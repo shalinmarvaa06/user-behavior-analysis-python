@@ -16,6 +16,9 @@ This analysis aims to answer the following questions:
 - Which country had the highest number of active users in Q2 2025?
 - How does Monthly Active Users (MAU) vary across marketing channels?
 
+#Links
+Google Colab Links: https://colab.research.google.com/drive/1S5j8Gk8BmOJ149LmWzo0GsLwTwYpWzn9?usp=sharing
+
 ## Dataset
 
 The dataset contains user interaction events collected from an e-commerce platform.
