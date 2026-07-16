@@ -66,7 +66,7 @@ The analysis includes:
 
 ### Event Type Distribution
 
-![Distribution of Event Types](https://github.com/shalinmarvaa06/user-behavior-analysis-python/blob/main/distribution-of-event-types.png))
+![Distribution of Event Types](distribution-of-event-types.png)
 
 ### Device Traffic Breakdown
 
