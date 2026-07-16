@@ -2,8 +2,8 @@
 User behavior analysis using Python, Pandas, and Matplotlib to explore engagement trends, marketing channels, and conversion metrics.
 
 ## Project Overview
-
-This project analyzes user event data to understand user behavior, marketing channel performance, and user engagement trends. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization using Python.
+This project analyzes user behavior data from an e-commerce platform using Python to understand customer engagement, conversion performance, and traffic trends across different marketing channels, devices, and countries.
+The analysis includes data cleaning, exploratory data analysis (EDA), business metric calculations, and data visualization to generate actionable business insights.
 
 ## Business Questions
 
