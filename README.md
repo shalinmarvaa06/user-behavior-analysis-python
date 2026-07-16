@@ -33,3 +33,44 @@ The dataset contains user interaction events collected from an e-commerce platfo
 | 7acf8e8f... | 7928b4be... | 3f8ba03c... | checkout | 2025-09-23 06:44:45 | P1468 | US | Desktop | email |
 
 🔗 Full Dataset Link: https://docs.google.com/spreadsheets/d/12jWqLjZUksqvFUUF0ZSQ0jiDxDYJ5P0pOVfTnxVpwyg/edit?usp=sharing
+
+## Tools
+
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## Data Cleaning
+
+The following preprocessing steps were performed:
+
+- Converted `event_timestamp` into datetime format.
+- Checked duplicate records.
+- Identified duplicate `event_id` values.
+- Filled missing values in the `channel` column with "(unknown)".
+- Checked remaining missing values across all columns.
+
+## Analysis
+
+The analysis includes:
+
+- User Conversion Rate
+- Event Type Distribution
+- Device Traffic Breakdown
+- Top Marketing Channels
+- Active Users by Country (Q2 2025)
+- Monthly Active Users (MAU) Trend by Channel
+
+## Visualizations
+
+### Event Type Distribution
+
+
+### Device Traffic Breakdown
+
+
+### Active Users by Country (Q2 2025)
+
+
+### Monthly Active Users (MAU) Trend
