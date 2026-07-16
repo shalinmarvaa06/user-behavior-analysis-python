@@ -69,7 +69,7 @@ The analysis includes:
 ![Distribution of Event Types](distribution-of-event-types.png)
 
 ### Device Traffic Breakdown
-
+![Device Traffic by Device](traffic-breakdown-by-device.jpg)
 
 ### Active Users by Country (Q2 2025)
 
