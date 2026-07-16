@@ -82,6 +82,11 @@ The analysis includes:
 ### Device Traffic Breakdown
 ![Device Traffic by Device](traffic-breakdown-by-device.png)
 
+## Key Findings
+- Mobile devices dominated user traffic, accounting for 89.6% of total sessions, with Android (49.6%) and iOS (40.0%) contributing the majority of visits.
+- Android was the leading platform, indicating that most users accessed the platform through Android devices.
+- Desktop traffic represented only 10.4%, suggesting that most user interactions occurred on mobile devices.
+
 ### Active Users by Country (Q2 2025)
 ![Active Users per Country](active-users-per-country.png)
 
