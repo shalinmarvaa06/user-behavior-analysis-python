@@ -65,7 +65,7 @@ The analysis includes:
 ## Visualizations
 
 ### Event Type Distribution
- ![Event_Types Distribution](images/Distribution of Event Types.png)
+ ![Distribution of Event Types](images/Distribution of Event Types.png)
 
 ### Device Traffic Breakdown
 
