@@ -75,3 +75,4 @@ The analysis includes:
 ![Active Users per Country](active-users-per-country.png)
 
 ### Monthly Active Users (MAU) Trend
+![Trend of Monthly Active User](trend-of-monthly-active-users.png)
