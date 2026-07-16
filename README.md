@@ -90,5 +90,18 @@ The analysis includes:
 ### Active Users by Country (Q2 2025)
 ![Active Users per Country](active-users-per-country.png)
 
+## Key Findings
+- Indonesia recorded the highest number of active users in Q2 2025 (1,055), making it the platform's largest market during the analysis period.
+- The United States ranked second with 815 active users, indicating a strong user base outside the Southeast Asian region.
+- Southeast Asia showed consistent engagement, with Vietnam, the Philippines, Malaysia, and Singapore each contributing around 460–485 active users.
+- Thailand and Australia had the lowest active user counts, suggesting opportunities for market expansion and user acquisition.
+
 ### Monthly Active Users (MAU) Trend
 ![Trend of Monthly Active User](trend-of-monthly-active-users.png)
+
+## Key Findings
+- Monthly Active Users (MAU) increased significantly from March to April 2025 across all marketing channels, indicating a successful acquisition campaign or product launch.
+- User engagement remained relatively stable between May and August, with different channels reaching peak performance at different times.
+- Referral, Email, and Paid Search were among the strongest-performing channels during the observation period, demonstrating their effectiveness in driving active users.
+- A noticeable decline in MAU occurred across all channels in September 2025, suggesting possible seasonality, reduced marketing activity, or changes in user behavior.
+- Unknown traffic remained minimal, indicating that most traffic sources were successfully tracked.
