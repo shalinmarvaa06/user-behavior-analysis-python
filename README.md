@@ -72,6 +72,6 @@ The analysis includes:
 ![Device Traffic by Device](traffic-breakdown-by-device.png)
 
 ### Active Users by Country (Q2 2025)
-
+![Active Users per Country](active-users-per-country.png)
 
 ### Monthly Active Users (MAU) Trend
